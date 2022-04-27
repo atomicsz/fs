@@ -57,6 +57,19 @@ export const ContainerMain = styled.div`
         p {
             font-size: 1rem;
         }
+
+        button {
+            width: 307px;
+            height: 45px;
+            background: #e9e9e9;
+            border-radius: 5px;
+            font-size: 1rem;
+            font-weight: 800;
+
+            img {
+                width: 90px;
+            }
+        }
     }
 
     span {
